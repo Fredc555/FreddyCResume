@@ -1,0 +1,29 @@
+<style>
+    head{
+        background-color: #f1b434ff;
+    }
+    body{
+        background-color: #f1b434ff;
+    }
+    .Resume-Headers{
+        font-family: farro;
+    }
+    p{
+        color: #800800ff;
+        font-size: 18px; 
+        font-family: oswald;        
+    }
+    h1{
+         color: #800800ff; 
+        font-family: merriweather;
+        outline: 3px solid #800800ff;
+    }
+    span{
+        position: relative;
+        top: -28px;
+    }
+    footer{
+        background-color: #800800ff;
+        color: #f1b434ff;
+    }
+</style>
